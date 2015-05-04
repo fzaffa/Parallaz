@@ -1,6 +1,5 @@
 #Parallaz
-Parallaz is the smallest javascript library for parallax scrolling.
-Soon there will be a demo.
+Parallaz is the smallest javascript library for parallax scrolling. [Demo.](http://fzaffa.github.io/demos/parallaz.html)
 ##Usage
 There are three ways to make an element a Parallaz element. The first is to define the element in the constructor.
 
